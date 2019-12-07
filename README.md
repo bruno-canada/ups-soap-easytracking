@@ -21,9 +21,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-<p>This tool was created based upon some requests of an easy and very light way to add a tracking field to a website which the customers could track their shipments withing the website.</p>
+<p>This tool was created based upon some requests of an easy and very light way to add a tracking field to a website which the customers could track their shipments within the website.</p>
 
-<p>It offers a copy and past frontend interface to use on your website and customize as you wish. It uses Bootstrap 4 and Jquery 3.4.1.</p>
+<p>It offers a copy and past frontend interface to use on your website and customize as you wish. It is a simple Form that process the request via AJAX and uses Bootstrap 4 and Jquery 3.4.1.</p>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
