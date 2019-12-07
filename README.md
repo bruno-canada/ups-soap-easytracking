@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/bruno-canada/The-Documentation-Compendium.svg)](https://github.com/bruno-canada/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/bruno-canada/The-Documentation-Compendium.svg)](https://github.com/bruno-canada/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/ups-soap-easytracking/The-Documentation-Compendium.svg)](https://github.com/ups-soap-easytracking/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ups-soap-easytracking/The-Documentation-Compendium.svg)](https://github.com/ups-soap-easytracking/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
