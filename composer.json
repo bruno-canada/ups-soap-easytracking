@@ -1,0 +1,30 @@
+{
+    "name": "bruno-canada/ups-soap-easytracking",
+    "type": "library",
+    "description": "UPS SOAP API Easy Tracking",
+    "keywords": [
+        "ups",
+        "api",
+        "tracking"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Bueno",
+            "email": "brunobueno@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.5 || ^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8 || ^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UPS\\": "lib"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
